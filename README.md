@@ -1,5 +1,5 @@
 # net_as1
-implement function in `CRC.py`
+implement functions in `CRC.py`
 
 
 
